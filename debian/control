@@ -1,0 +1,22 @@
+Source: ml-dict
+Section: python
+Priority: extra
+Build-Depends: cdbs (>= 0.4.43),
+ debhelper (>= 6),
+ python (>= 2.6.6-3~),
+ python-distutils-extra (>= 2.10)
+Maintainer: Aboobacker Mk <aboobackervyd@gmail.com>
+Standards-Version: 3.8.3
+XS-Python-Version: current
+
+Package: ml-dict
+Architecture: all
+XB-Python-Version: ${python:Versions}
+Depends: ${misc:Depends},
+ ${python:Depends},
+ gir1.2-glib-2.0,
+ gir1.2-gtk-3.0,
+ gir1.2-launchpad-integration-3.0,
+ yelp
+Description: A simple english malayalam dictionary
+ this is a simple english malayalam dictionary with basic features

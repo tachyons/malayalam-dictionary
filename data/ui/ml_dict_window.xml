@@ -1,0 +1,8 @@
+<glade-catalog name="ml_dict_window" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="Ml Dict Window" name="MlDictWindow" 
+                        generic-name="MlDictWindow" parent="GtkWindow"
+                        icon-name="widget-gtk-window"/>
+  </glade-widget-classes>
+</glade-catalog>

@@ -1,0 +1,9 @@
+<glade-catalog name="about_ml_dict_dialog" domain="glade-3" 
+               depends="gtk+" version="1.0">
+  <glade-widget-classes>
+    <glade-widget-class title="About Ml Dict Dialog" name="AboutMlDictDialog" 
+                        generic-name="AboutMlDictDialog" parent="GtkAboutDialog"
+                        icon-name="widget-gtk-about-dialog"/>
+  </glade-widget-classes>
+
+</glade-catalog>

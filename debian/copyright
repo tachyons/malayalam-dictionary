@@ -1,0 +1,12 @@
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
+Name: ml-dict
+Maintainer: Aboobacker Mk <aboobackervyd@gmail.com>
+Source: UNKNOWN
+
+Files: *
+Copyright: (C) 2012 <Aboobacker mk> <aboobackervyd@gmail.com>
+Copyright: (C) 2012 &lt;Aboobacker mk&gt; &lt;aboobackervyd@gmail.com&gt;
+Copyright: (C) 2012 &lt;Aboobacker mk&gt; &lt;aboobackervyd@gmail.com&gt;</property>
+License: GPL-3
+ The full text of the GPL is distributed in
+ /usr/share/common-licenses/GPL-3 on Debian systems.

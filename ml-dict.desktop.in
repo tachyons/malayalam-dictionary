@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Ml Dict
+_Comment=MlDict application
+Categories=GNOME;Utility;
+Exec=ml-dict
+Icon=/usr/share/ml-dict/media/ml-dict.svg
+Terminal=false
+Type=Application

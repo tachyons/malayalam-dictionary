@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-26 20:22+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../ml_dict/__init__.py:34
+msgid "Show debug messages (-vv debugs ml_dict_lib also)"
+msgstr ""
+
+#. Code for other initialization actions should be added here.
+#: ../data/ui/AboutMlDictDialog.ui.h:1
+msgid "Copyright (C) 2012 <Aboobacker mk> <aboobackervyd@gmail.com>"
+msgstr ""
+
+#: ../data/ui/AboutMlDictDialog.ui.h:2
+msgid "Visit my website"
+msgstr ""
+
+#: ../data/ui/AboutMlDictDialog.ui.h:3
+msgid ""
+"# Copyright (C) 2012 <Aboobacker mk> <aboobackervyd@gmail.com>\n"
+"# This program is free software: you can redistribute it and/or modify it \n"
+"# under the terms of the GNU General Public License version 3, as "
+"published \n"
+"# by the Free Software Foundation.\n"
+"# \n"
+"# This program is distributed in the hope that it will be useful, but \n"
+"# WITHOUT ANY WARRANTY; without even the implied warranties of \n"
+"# MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR \n"
+"# PURPOSE.  See the GNU General Public License for more details.\n"
+"# \n"
+"# You should have received a copy of the GNU General Public License along \n"
+"# with this program.  If not, see <http://www.gnu.org/licenses/>.\n"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:1
+msgid "Tachyons english Malayalam dictionary "
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:2
+msgid "_File"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:3
+msgid "_Help"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:4
+msgid "Contents"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:5
+msgid "home"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:6
+msgid "toolbutton1"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:7
+msgid "settings"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:8
+msgid "About"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:9
+msgid "about"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:10
+msgid "Enter the word:"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:11
+msgid "Under Construction"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:12
+msgid "update"
+msgstr ""
+
+#: ../data/ui/MlDictWindow.ui.h:13
+msgid "Status Area"
+msgstr ""
+
+#: ../data/ui/PreferencesMlDictDialog.ui.h:1
+msgid "Ml Dict Preferences"
+msgstr ""
+
+#: ../data/ui/PreferencesMlDictDialog.ui.h:2
+msgid "_Example entry:"
+msgstr ""
+
+#. self.on_update_clicked(self,None,word)
+#: ../ml-dict.desktop.in.h:1
+msgid "Ml Dict"
+msgstr ""
+
+#: ../ml-dict.desktop.in.h:2
+msgid "MlDict application"
+msgstr ""
